@@ -17,7 +17,9 @@ This project implements an **advanced object tracking pipeline** using YOLO for 
 
 ## Demo
 
-<img src="output.gif" alt="Tracking Demo" style="width:70%; height:auto;">
+<div align="center">
+  <img src="output.gif" alt="Tracking Demo" width="600">
+</div>
 
 ---
 
