@@ -28,5 +28,30 @@ This project implements an **advanced object tracking pipeline** using YOLO for 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/merkut06/Object_Detection_Tracking_Yolo_Kalman.git
+git clone https://github.com/merkut06/Object_Detection_And_Tracking_Yolo_Kalman.git
 cd Object_Detection_Tracking_Yolo_Kalman
+```
+2. Install dependencies (recommended in a virtual environment):
+
+```bash
+pip install -r requirements.txt
+```
+Required packages:
+
+Python ≥ 3.9
+
+OpenCV (opencv-python)
+
+Ultralytics YOLO (ultralytics)
+
+PyTorch (torch)
+
+NumPy (numpy)
+
+SciPy (scipy)
+
+FilterPy (filterpy)
+
+Logging, CSV, and other standard libraries
+
+
